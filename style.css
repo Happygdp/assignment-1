@@ -115,3 +115,9 @@ section{
 .half-width img{
     height: 500px;
 }
+
+
+.our-clients div{
+    /* border: 1px solid black; */
+    box-shadow: 5px 5px 10px #000000;
+}
